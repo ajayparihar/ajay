@@ -78,11 +78,11 @@
 }
 
 .auto_margin {
-    margin-right: auto;
+    margin-right: 0;
 }
 
 .auto_margin {
-    margin-left: auto;
+    margin-left: 0;
 }
 
 .down_bg {
